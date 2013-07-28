@@ -1,0 +1,14 @@
+---
+title: 58027.6
+date: 28.07.2013
+author: Michael Hughes
+---
+
+`58,027.6 is the population per square mile`_ of Guttenberg, NJ in 2012. Guttenberg edges
+out a number of other locations in the US to be the *most densely* populated
+city in the US. 
+
+For reference the population density of `NYC was 27,543.1`_ during the same time period.
+
+.. _NYC was 27,543.1: http://quickfacts.census.gov/qfd/states/36/3651000lk.html
+.. _58,027.6 is the population per square mile: http://quickfacts.census.gov/qfd/states/34/3428650lk.html
