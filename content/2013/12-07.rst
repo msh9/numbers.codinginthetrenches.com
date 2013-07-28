@@ -1,0 +1,11 @@
+---
+title: 12.07
+date: 27.07.2013
+author: Michael Hughes
+---
+
+12.07% is the percentage of single active duty women with children relative to all active duty women in the armed forces
+as measured by a `US Department of Defence data release`_. As an aside the same data release shows that 4.24% of active duty
+men in the armed forces are single with children.
+
+.. _US Department of Defence data release: http://catalog.data.gov/dataset/active-duty-marital-status
