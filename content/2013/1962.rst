@@ -1,0 +1,17 @@
+---
+title: 1962
+date: 29.07.2013
+author: Michael Hughes
+---
+
+`1962 was the year`_ a coal mine started in Centralia, PA that could
+potentially burn for some time yet to come. The fire caused most people
+in the town to evacuate by the mid-1990s leaving a few who decided to
+stay. It is literally a slow, smoldering, underground hazard. According 
+to the linked article there are a number of ongoing underground and surface coal
+fires in the US.
+
+Marshmallows anyone? 
+
+.. _1962 was the year: http://news.nationalgeographic.com/news/energy/2013/01/pictures/130108-centralia-mine-fire/
+
