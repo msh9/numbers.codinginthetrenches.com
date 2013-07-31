@@ -1,0 +1,24 @@
+---
+title: 32367
+date: 30.07.2013
+author: Michael Hughes
+---
+
+`According to the NTSB`_ 32367 is the estimated number of highway related 
+fatalities recorded by the US department of transportation during 2011.
+11981 (that is 37%) of those 32367 fatalities
+where due to incidents involving passenger cards.
+
+For reference the estimated number of aviation related fatalities for the 
+same period was 494. Additionally, **0 of those aviation fatalities occurred** 
+on airlines (i.e. most of the fatalities occurred due to incidents 
+involving private planes).
+
+**Finally,** what about the number of deaths of US citizens worldwide due to 
+terrorism? `According to the US Department of State`_: 17. *Obviously* this figure
+does not include military deaths--see the linked page for a precise definition
+of US citizen fatalities due to terrorism.
+
+.. _According to the NTSB: http://www.ntsb.gov/data/datafiles/2010_2011_stats_chart.doc
+.. _According to the US Department of State: http://www.state.gov/j/ct/rls/crt/2011/195556.htm
+
