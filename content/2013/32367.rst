@@ -6,8 +6,7 @@ author: Michael Hughes
 
 `According to the NTSB`_ 32367 is the estimated number of highway related 
 fatalities recorded by the US department of transportation during 2011.
-11981 (that is 37%) of those 32367 fatalities
-where due to incidents involving passenger cards.
+11981 (that is 37%) of those 32367 fatalities were due to incidents involving passenger cards.
 
 For reference the estimated number of aviation related fatalities for the 
 same period was 494. Additionally, **0 of those aviation fatalities occurred** 

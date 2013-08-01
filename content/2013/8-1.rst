@@ -1,0 +1,17 @@
+---
+title: 8.1
+date: 31.07.2013
+author: Michael Hughes
+---
+
+`8.1% is the`_ *estimated* gap between what the US economy was capable of producing (in terms of GDP)
+and what was actually being produced in the second half of 2009. The recession that occurred between
+2008 and 2009 hit the reset button on wealth derived from rising home prices and relatively cheap
+debt. The recession occurred during the same time as a major financial crisis in the US resulting in
+a severe economic downturn.
+
+8.1% really doesn't sound like much, but it is a large number when applied at the scale of a country (like the US).
+For reference, an indicator of expansion of the economy is the GDP, a measurement where the difference
+between bad and good can be a few 1/10ths of a percent.
+
+.. _8.1% is the: http://digitalcommons.ilr.cornell.edu/key_workplace/1106/
