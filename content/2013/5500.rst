@@ -1,0 +1,34 @@
+---
+title: 5500
+date: 01.08.2013
+author: Michael Hughes
+---
+
+Today's number is `the estimated number of a calories`_ that a Tour de France rider consumes in
+a single day. Now I'm cheating a bit with this number since it is a rough
+estimate instead of a more exact statistic.
+
+5500 kcal per day for a Tour de France rider is still interesting
+though because it can be used for the sake entertaining comparisons. The
+average tour stage this year `was around 209km`_, let's call it 200Km.
+
+Now let's consider a car driving along the same stage as the Tour de France
+rider. Let's be optimitic and say the car is modern, small, and well maintained--
+we will estimate fuel consumption at 20 MPG (or in proper units ~11.76L/100km).
+Such a car would consume 178610.88 kcal en route or in other words ~32 times what
+the human rider needed to travel the same distance. 
+
+Of course the car is much bigger than the human rider so we should take mass into 
+consideration. A `2013 Corolla L`_ weighs 2734lb (or ~1240kg) and let's say that `our rider is 150lb`_ 
+(or 68kg). The car's engine spent ~144 kcal/kg to move the car from start to finish
+of the stage whereas the rider used ~80 kcal/kg (or 56% of what the car needed) 
+to get from start to finish.
+
+What's do all these numbers mean? To me they mean that we (as a race) still have a long way to go
+in terms of making speedy personal transportation an energy efficient means of getting around.
+
+
+.. _our rider is 150lb: http://voices.yahoo.com/fun-facts-2009-tour-de-france-3700950.html?cat=14
+.. _the estimated number of a calories: http://www.bicycling.com/garmin-insider/featured-stories/eating-tour-de-france
+.. _was around 209km: http://bikeraceinfo.com/tdf/tdfstats.html
+.. _2013 Corolla L: http://www.toyota.com/corolla/features.html#!/weights_capacities/1831/1838/1848/1833
