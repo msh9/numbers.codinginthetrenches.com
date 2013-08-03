@@ -1,0 +1,16 @@
+---
+title: 7.25
+date: 02.08.2013
+author: Michael Hughes
+---
+
+$7.25/hour is the `U.S. Federal minimum wage`_ as of July 24, 2009, for reference that
+works out to $15080/year assuming 40 hours per week and 52 weeks per year. 
+
+The `federal poverty line`_ for a 1 person family/household is set at $11170.
+
+For some reason these numbers seem awfully low.
+
+.. _U.S. Federal minimum wage: http://www.dol.gov/whd/minwage/chart.htm
+.. _federal poverty line: http://aspe.hhs.gov/poverty/12poverty.shtml
+
