@@ -1,0 +1,18 @@
+---
+title: 262.1
+date: 05.08.2013
+author: Michael Hughes
+---
+
+`262.1 **billion**`_ vehicle miles was the U.S. Department of Transportation's
+estimated travel figure for the month of May in 2013, in units used by the rest
+of the world that yields roughly 422 billion kilometers traveled.
+
+It's really astonishing to me that the distance traveled by vehicles in 
+1 month just in the US is measured in hundreds of billions of miles. When 
+considering this figure it's worth keeping in mind that the maximum distance
+from Earth to Mars is `~401 **million** kilometers`_ or about 1000 times *less*
+than the vehicle miles for the month of may.
+
+.. _262.1 **billion**: http://www.fhwa.dot.gov/policyinformation/travel_monitoring/13maytvt/index.cfm
+.. _~401 **million** kilometers: http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
