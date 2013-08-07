@@ -1,0 +1,13 @@
+---
+title: 18262
+date: 06.08.2013
+author: Michael Hughes
+---
+
+`The number of combined radio and TV episodes`_ in the drama series
+(The) Guiding Light is 18262. Guiding Light is currently the longest
+running television drama in history, broadcast begin in 1952 and
+end in 2009.
+
+.. _The number of combined radio and tv episodes: https://en.wikipedia.org/wiki/Guiding_Light
+
