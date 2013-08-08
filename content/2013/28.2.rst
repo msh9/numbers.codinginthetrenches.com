@@ -1,0 +1,19 @@
+---
+title: 28.2
+date: 07.08.2013
+author: Michael Hughes
+---
+
+`According the US Census quick facts page`_ the percentage of persons age 25+
+holding a bachelor's degree or higher is 28.2%. In the same age group the
+percentage of people with a GED or better is 85.4%.
+
+*Great*, so as a country we're mostly literate in **basic** high school reading,
+writing, mathematics, and science. This could be considered a good thing
+since we're in much better shape than 100 years ago. On the other hand it
+means that there are a number of positions in economy which require 4 years
+degrees at a minimum that are out of reach to many.
+
+.. _According the US Census quick facts page: http://quickfacts.census.gov/qfd/states/00000.html
+
+
