@@ -1,0 +1,14 @@
+---
+title: 15000000
+date: 08.08.2013
+author: Michael Hughes
+---
+
+Speaking of things that require college degrees (see yesterday's post): The Linux kernel
+as of 2011 had `15+ million lines of code spread across 37000 files`_. I've worked on
+a few relatively complex applications recently, but they have all been measured in multiples
+of 10000 lines. Anything measured in millions of lines of code really does take a community
+effort to maintain.
+
+.. _15+ million lines of code spread across 37000 files: http://arstechnica.com/business/2012/04/linux-kernel-in-2011-15-million-total-lines-of-code-and-microsoft-is-a-top-contributor/
+
