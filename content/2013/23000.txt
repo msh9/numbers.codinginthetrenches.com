@@ -1,0 +1,25 @@
+---
+title: 23000
+date: 16.09.2013
+author Michael Hughes
+---
+
+At least 23000_ individuals lost their lives due to antibiotic resistant infections last year.
+
+The CDC_ recently released a report on the antibiotic resistant pathogens. It's frightening,
+almost as frightening as a Department of Defence Concept Plan to `handle a Influenza pandemic`_
+that *starts out* with an assumption that 2,000,000+ citizens will die.
+
+As frightening as the CDC report is, however it's worth a read. The report is well written and
+contains a lot of useful information about the origin of drug resistant bacteria and fungus,
+how we are currently making the problem, what to do about it, and some of the greatest current
+threats.
+
+Finally, to bang on a drum that I've hit before: Number of deaths of private US citizens due
+to terrorism in 2012? According to the Department of State there were 10_ such deaths.
+
+.. _23000: http://www.cdc.gov/drugresistance/threat-report-2013/
+.. _CDC: http://www.cdc.gov/
+.. _10: http://www.state.gov/j/ct/rls/crt/2012/210030.htm
+.. _handle a Influenza pandemic: http://www.governmentattic.org/8docs/NORTHCON_CONPLAN_3551-09_2009.pdf
+
