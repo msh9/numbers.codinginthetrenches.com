@@ -16,9 +16,9 @@ TYPOGRAPHY_MODE = "2"
 
 FILTERS = ['rst+pygments(css_class=highlight)', 'hyphenate', 'h1','typo']
 VIEWS = {
-        '/': {'filters': 'summarize', 'view': 'index', 'pagination': '/page/:num'},
+        '/': {'filters': 'summarize', 'view': 'index', 'pagination': '/page/:num/'},
         '/:year/:slug/': {'view': 'entry'},
-        '/tag/:name/': {'filters': 'summarize', 'view':'tag', 'pagination': '/tag/:name/:num'},
+        '/tag/:name/': {'filters': 'summarize', 'view':'tag', 'pagination': '/tag/:name/:num/'},
         '/atom/': {'filters': ['h2', 'nohyphenate'], 'view': 'atom'},
         '/rss/': {'filters': ['h2', 'nohyphenate'], 'view': 'rss'},
         '/articles/': {'view': 'articles'},
