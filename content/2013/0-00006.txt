@@ -1,0 +1,14 @@
+---
+title: "0.00006%"
+date: 17.09.2013
+author: Michael Hughes
+---
+
+~0.00006% is the `rate of occurence`_ of the phrase 'once upon a time' in Google books `Ngram Viewer`_ when
+it peaked around 1922. The link also includes the phrase 'dark and stormy night' in reference to the much
+joked about opener 'It was a dark and stormy night..'. Interestingly the maligned dark and stormy opener
+has never occurred as often as the apparantly much more common phrase 'once upon a time.'
+
+.. _rate of occurence: http://books.google.com/ngrams/graph?content=once+upon+a+time%2Cdark+and+stormy+night&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=
+.. _Ngram Viewer: http://books.google.com/ngrams/info
+
