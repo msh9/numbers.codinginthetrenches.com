@@ -1,0 +1,22 @@
+---
+title: 4.22
+date: 18.09.2013
+author: Michael Hughes
+---
+
+4.22 is roughly the number `of light years`_ from Earth to the closest star in the
+Alpha Centauri system, Proxima Centauri. Just to be clear 4.22 light years works
+out to roughly 39,900,000,000,000 km, this is a really big number. 
+
+Recalling an
+earlier post, approximately `262.1 billion`_ vehicle miles were estimated to have
+occurred in US for May 2013. If we extrapolate the May travel figure out over
+12 months then it would take **~7.9 years** at 262.1 billion miles per month to 
+travel the distance between Earth and Proxima Centauri. 
+
+It's hard to describe
+and comprehend the distances involved when it comes to travel off our planet.
+
+.. _of light years: http://heasarc.nasa.gov/docs/cosmic/nearest_star_info.html
+.. _262.1 billion: http://numbers.codinginthetrenches.com/2013/262-1/
+
